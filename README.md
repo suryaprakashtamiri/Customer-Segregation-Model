@@ -9,7 +9,7 @@ Standard scaling and LabelEncoder
 ## 2. Dimensionality Reduction
 ### PCA
 ![image](https://user-images.githubusercontent.com/121415119/210290176-aefca915-99e7-408a-8ce3-caee55d5d1c2.png)
-REduction to 3 Principal components
+Reduction to 3 Principal components
 ## 3. Optimal Clusters
 Elbow method and Silhoutte score method to determine optimal number of clusters
 ![image](https://user-images.githubusercontent.com/121415119/210290241-019d6f9d-399f-4324-997c-3ca2baa976bf.png)
