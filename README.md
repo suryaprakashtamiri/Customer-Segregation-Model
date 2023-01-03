@@ -33,7 +33,7 @@ Elbow method and Silhoutte score method to determine optimal number of clusters
 ![image](https://user-images.githubusercontent.com/121415119/210290396-2b363004-a6f8-401d-ac76-926506f1bac7.png)
 
 
-##6. Insights
+## 6. Insights
 There are many potential insights that could be gained from a customer segmentation project using clustering techniques. Some examples include:
 
 Identifying distinct market segments: By grouping customers into clusters based on their characteristics, you can identify distinct market segments and understand the common traits of each group. This can be useful for developing targeted marketing campaigns and tailoring products and services to the needs of specific segments.
