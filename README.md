@@ -3,24 +3,24 @@ A customer segmentation project using clustering techniques could involve collec
 
 To begin the project, you would need to preprocess and clean the data, selecting relevant features and possibly scaling or transforming the data to make it more suitable for clustering. You could then use a clustering algorithm, such as k-means or DBSCAN, to group the customers into clusters based on their similarities.
 
-#Approach
-##1. Data Pre processing
+# Approach
+## 1. Data Pre processing
 Standard scaling and LabelEncoder
-##2. Dimensionality Reduction
+## 2. Dimensionality Reduction
 ###PCA
 ![image](https://user-images.githubusercontent.com/121415119/210290176-aefca915-99e7-408a-8ce3-caee55d5d1c2.png)
 REduction to 3 Principal components
-##3. Optimal Clusters
+## 3. Optimal Clusters
 Elbow method and Silhoutte score method to determine optimal number of clusters
 ![image](https://user-images.githubusercontent.com/121415119/210290241-019d6f9d-399f-4324-997c-3ca2baa976bf.png)
 
 
-##4. K-means and DBSCAN
+## 4. K-means and DBSCAN
 ![image](https://user-images.githubusercontent.com/121415119/210290260-464509c6-3d07-483d-8253-a9b15243eace.png)
 ![image](https://user-images.githubusercontent.com/121415119/210290268-053464c0-a5a4-4296-87e2-1ff8ef26b359.png)
 
 
-##5. Cluster behaviour with Faetures.
+## 5. Cluster behaviour with Faetures.
 ### Cluster interaction with Income
 
 ### Kids at home
